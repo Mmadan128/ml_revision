@@ -1,7 +1,0 @@
-hidden_units: !!python/tuple
-- 32
-- 16
-image_shape: !!python/tuple
-- 1
-- 28
-- 28
